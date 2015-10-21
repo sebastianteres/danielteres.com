@@ -1,0 +1,42 @@
+body {
+    background-color: #0c0d0f;
+    background: url('../assets/background.jpg') no-repeat center center fixed;
+    color: #cccccc;
+    font-family: 'Lato', sans-serif;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20pt;
+}
+
+h2 {
+    font-size: 18pt;
+    line-height: 24pt;
+}
+
+a,a:visited,a:hover {
+    color: #666666;
+}
+
+.btn.btn-dth {
+    margin-top: 30px;
+    color: #ffcc33;
+    border: 1px solid #ffcc33;
+    border-radius: 2px;
+    background: transparent;
+    line-height: 50px;
+    padding: 0 30px;
+}
+
+.logo {
+    margin-top: 60px;
+}
+
+.center-vertical {
+    margin-top: calc(50% - 100px);
+}
