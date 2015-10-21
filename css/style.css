@@ -44,5 +44,6 @@ a,a:visited,a:hover {
 }
 
 .center-vertical {
-    margin-top: calc(50% - 100px);
+    position: relative;
+    top: 35%;
 }
